@@ -110,6 +110,7 @@ python src/train.py
 ---
 
 ## Phase 1 Results
+![Phase 1 macro F1 results](assets/phase1_results.png)
 
 Trained on CICIDS2017 flow features (84 columns, 2,827,876 rows after cleaning).
 Macro F1 is the honest metric here -- accuracy looks great on imbalanced data even
