@@ -99,7 +99,7 @@ Phase 2 adds:
 ## Running Phase 1
 
 \```bash
-git clone https://github.com/sanh22/packetformer
+git clone https://github.com/Sanh22/packetformer
 cd packetformer
 pip install -r requirements.txt
 # download CICIDS2017 CSVs and place them in data/raw/ (see data/README.md)
